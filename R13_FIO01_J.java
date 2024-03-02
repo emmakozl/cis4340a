@@ -1,0 +1,7 @@
+public class R13_FIO01_J {
+
+	public static void main(String[] args){
+		Writer out = new FileWriter("file");
+	}
+
+}
